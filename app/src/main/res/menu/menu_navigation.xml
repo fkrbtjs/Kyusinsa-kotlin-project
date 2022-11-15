@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navi_menu_purchase"
+        android:icon="@drawable/cart"
+        android:title="구매목록" />
+    <item
+        android:id="@+id/navi_menu_favor"
+        android:icon="@drawable/heart"
+        android:title="즐겨찾기" />
+    <item
+        android:id="@+id/navi_menu_review"
+        android:icon="@drawable/review"
+        android:title="My 리뷰" />
+    <item
+        android:id="@+id/navi_menu_serviceCenter"
+        android:icon="@drawable/headset"
+        android:title="고객센터" />
+
+</menu>
