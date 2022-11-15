@@ -26,6 +26,7 @@
 - ActionBar toolbar로 대체하여 NavigationView와 연동
 - TabLayout과 ViewPager 연동
 - intent활용 Fragment -> Activity , Activity -> Activity간 정보전달
+- FloatingActionButton 활용
 
 
 ## 실행화면
